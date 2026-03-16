@@ -1,12 +1,17 @@
 # Volcano.nvim
 
 ### This project is abandoned and scheduled for deletion.
-### This project was meant to work alongside Supercodex.nvim, but after extensive
-### development, it was revealed that the core idea could not be implemented.
-### Additionally, AI was used egregiously to the point that so much technical debt
-### was accumulated, it's not feasible to salvage the project and create a more
-### standard-adherent version of molten.nvim. Lessons learned; there is work to be
-### done, and it's time to move on.
+### 
+### This project was meant to work alongside Supercodex.nvim, but after extensive 
+### development, it was revealed that the core idea could not be implemented. 
+###
+### Additionally, AI was used egregiously to the point that so much technical debt 
+### was accumulated, it's not feasible to salvage the project and create a more 
+### standard-adherent version of molten.nvim. 
+###
+### Lessons learned; there is work to be  done, and it's time to move on.
+
+---
 
 ### 🌐 Live Version
 Create '~/.config/nvim/lua/plugins/volcano.lua':
